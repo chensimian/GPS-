@@ -1,0 +1,5 @@
+如果u-centersetup-7.0.2.1安装失败（提示.msi下载出错），则请安装u-center_v8.17.exe这个版本即可。
+使用方法，完全同u-centersetup-7.0.2.1一模一样。
+
+如果还不行，试试：u-center（无法安装u-centersetup-7.0.2.1的时候，请解压用这个版本试试）.rar
+这个破解版。

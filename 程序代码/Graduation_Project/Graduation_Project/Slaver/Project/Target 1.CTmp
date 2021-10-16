@@ -1,0 +1,6 @@
+SIGNAL void StuffS0in (void) {
+  while (1) {
+    S0IN = 'A';
+    twatch (1000000);
+  }
+}
